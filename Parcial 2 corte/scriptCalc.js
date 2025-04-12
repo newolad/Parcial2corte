@@ -22,6 +22,8 @@ break;
 case '/':
 res = num2 !== 0 ? num1 / num2 : "Error: división por cero";
 break;
+default:
+    res = "Operación inválida";
 }
 
 resultado.textContent = `Resultado: ${res}`;
