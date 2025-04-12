@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.class {
+    display: grid;
+    grid-template-columns: repeat(18, 50px);
+    grid-gap: 5px;
+}
+.element-metal-alcalino{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #cf0e0e;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-alcalinoterreos{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0cc2b;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-metal-otros{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #607a01;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-metal-transicion{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #7f944e;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-lactanidos{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #81c2a9;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-metaloides{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #79db37;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-no-metal{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f61dd;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-halogenos{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #cc1452;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-gas-noble{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #322675;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element-actinidos{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2b5a35;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.element{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #cfd1d0;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}

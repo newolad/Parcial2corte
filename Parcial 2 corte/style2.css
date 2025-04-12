@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .container, .calculadora {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+  }  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    text-align: left;
+  }
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  input {
+    margin: 10px;
+    padding: 8px;
+    width: 100px;
+  }
+  
